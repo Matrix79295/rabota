@@ -1,0 +1,10 @@
+ROCK;Bohemian Rhapsody;Queen;354;Progressive Rock
+CLASSIC;Moonlight Sonata;Beethoven;360;Beethoven
+POP;Shape of You;Ed Sheeran;233;1
+ROCK;Smells Like Teen Spirit;Nirvana;301;Grunge
+CLASSIC;The Four Seasons;Vivaldi;200;Vivaldi
+POP;Blinding Lights;The Weeknd;200;2
+INVALID;Broken Song;Nobody;abc;0
+ROCK;;Unknown Artist;-100;
+POP;Bad Duration;Artist;notANumber;5
+UNKNOWN;Some Song;Some Artist;100;x
